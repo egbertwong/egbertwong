@@ -9,7 +9,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: [wgh651020224@gmail.com](mailto://wgh651020224@gmail.com)
 - ⚡ Fun fact: ...
-- 📕 Blog: [egbertwong.github.io](egbertwong.github.io)
+- 📕 Blog: [egbertwong.github.io](https://egbertwong.github.io)
 
 ![EgbertW's github stats](https://github-readme-stats.vercel.app/api?username=egbertwong&show_icons=true&theme=radical)
 
